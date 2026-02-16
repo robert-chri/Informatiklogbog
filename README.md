@@ -5,6 +5,6 @@ Her kommer mit arbejde til at ligge
 # App og interaktionsdesign
 <details>
   <summary><h2>
-    TISSEMAND
+    hej mark
   </summary>
 </details>
