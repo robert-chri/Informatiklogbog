@@ -37,5 +37,4 @@ Det første vi startede med i forløbet var at lære om flowcharts, da de er en 
 <br>
 Dette var det første flowchart vi lavede. Flowchartet gengiver koden, som skulle være en bold, der flyver rundt på canvasset og skifter retning, når den rammer en væg
 <img width="1197" height="606" alt="image" src="https://github.com/user-attachments/assets/84c389bc-6777-48a8-9764-158b1ba742be" />
-Her er flowchartet, men lavet til kode i p5js. https://editor.p5js.org <br>
-<iframe src="https://editor.p5js.org/robertv2907/full/3PUSpVaiw"></iframe>
+Her er koden, der er lavet ud fra flowchartet. https://editor.p5js.org/robertv2907/sketches/3PUSpVaiw<br>
