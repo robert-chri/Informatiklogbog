@@ -38,3 +38,8 @@ Det første vi startede med i forløbet var at lære om flowcharts, da de er en 
 Dette var det første flowchart vi lavede. Flowchartet gengiver koden, som skulle være en bold, der flyver rundt på canvasset og skifter retning, når den rammer en væg
 <img width="1197" height="606" alt="image" src="https://github.com/user-attachments/assets/84c389bc-6777-48a8-9764-158b1ba742be" />
 Her er koden, der er lavet ud fra flowchartet. https://editor.p5js.org/robertv2907/sketches/3PUSpVaiw<br>
+
+
+
+## Kryptering
+I starten af forløbet
