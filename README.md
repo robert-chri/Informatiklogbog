@@ -1,3 +1,5 @@
+# LOGBOGEN STÅR 100% FÆRDIG SENEST D 5/5!!!!!!!!
+
 # Informatiklogbog
 Dette er min logbog i informatik!!<br>
 Her kommer mit arbejde til at ligge
