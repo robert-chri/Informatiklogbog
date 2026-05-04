@@ -61,6 +61,8 @@ Her ses en kørsel af koden:<br>
 <br>
 
 ### Andet "projekt"
+Link til p5.js https://editor.p5js.org/robertv2907/sketches/i67SnOzms <br>
+<br>
 I programmering lærte vi også om arrays. Et array er en måde at gemme flere værdier i én variabel i stedet for at lave mange separate variabler. Det gør koden mere overskuelig og nemmere at arbejde med, især når man har mange ens elementer, som f.eks. bolde i et spil. <br>
 I vores kode med bolde brugte vi arrays til at gemme positioner (x og y), størrelser (r) og hastigheder (x_speed og y_speed). På den måde kunne vi bruge en løkke til at opdatere og tegne alle bolde, i stedet for at skrive den samme kode flere gange. <br>
 
@@ -79,6 +81,8 @@ Her ses en kørsel af koden<br>
 ![demo](2_balls_collision.gif)<br>
 
 ### Projekt fra virtuel undervisning aka. "projekt" 3
+Link til p5.js https://editor.p5js.org/robertv2907/sketches/_BF-40x5p<br>
+<br>
 I denne opgave arbejdede vi med en algoritme, der bygger på tilfældighed og gentagelser. Målet var at skabe et mønster ud fra tre tilfældige punkter, som tilsammen danner en Sierpiński-trekant.
 Jeg valgte at lave koden så, at brugeren skal vælge tre punkter ved at klikke på canvaset. Disse punkter gemmes i arrays og fungerer som trekantens hjørner. Når alle tre punkter er valgt, vælges et tilfældigt startpunkt blandt dem.
 
@@ -93,8 +97,11 @@ Med tiden dannes Sierpiński-trekanten<br>
 <br>
 <img width="526" height="397" alt="image" src="https://github.com/user-attachments/assets/0635b38b-cffa-4628-af1b-1bfe242d1caf" /><br>
 
+## Kryptering og kryprografi
+Efterfølgende arbejdede vi med kryptografi, som handler om at beskytte information ved at gøre den ulæselig for uvedkommende.<br>
+I forbindelse med emnet lærte vi også om CIA-modellen, som er en grundlæggende model inden for IT-sikkerhed.<br>
+Et klassisk eksempel er Caesar-kryptering, hvor bogstaver i en tekst forskydes et bestemt antal pladser i alfabetet, så beskeden bliver ulæselig uden nøglen.<br>
+<br>
+Som en del af forløbet lavede vi også et projekt i p5.js, hvor vi programmerede en Caesar-kryptering.<br>
 
-
-
-## Kryptering
-I starten af forløbet
+## Arduino vejrstation
