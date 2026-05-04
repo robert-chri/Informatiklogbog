@@ -58,7 +58,18 @@ I programmering lærte vi også om arrays. Et array er en måde at gemme flere v
 I vores kode med bolde brugte vi arrays til at gemme positioner (x og y), størrelser (r) og hastigheder (x_speed og y_speed). På den måde kunne vi bruge en løkke til at opdatere og tegne alle bolde, i stedet for at skrive den samme kode flere gange. <br>
 
 Arrays er derfor smarte, fordi de gør det lettere at strukturere data og udvide et program, f.eks. hvis man vil gå fra 2 bolde til 10 bolde. <br>
-![demo](2_ball_collision.gif)<br>
+
+Her ses et flowchart af koden<br>
+<br>
+<img width="663" height="575" alt="image" src="https://github.com/user-attachments/assets/b5277ec2-bab5-4d2c-a524-05a43442d4e8" /><br>
+<br>
+Her ses et kodeudsnit, der viser for-loops<br>
+<br>
+<img width="551" height="530" alt="image" src="https://github.com/user-attachments/assets/be76ca31-620d-4858-954e-91b24dd4417b" /><br>
+<br>
+Her ses en kørsel af koden<br>
+<br>
+![demo](2_balls_collision.gif)<br>
 
 
 ## Kryptering
