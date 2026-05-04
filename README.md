@@ -12,6 +12,13 @@ Nogle af de vigtigste gestaltlove er nærhed, lighed og lukkethed. Nærhed betyd
 
 I vores app brugte vi gestaltlovene til at gøre designet mere intuitivt. For eksempel placerede vi knapper tæt sammen og brugte ens ikoner, så det var nemt for brugeren at navigere mellem de forskellige sider. Det gjorde appen mere overskuelig og lettere at bruge. <br>
 
+## Usertest
+I grundforløbet arbejdede vi også med usertests, som er en metode til at teste et produkt eller en app på rigtige brugere. Formålet er at finde ud af, om designet er forståeligt, og om brugeren kan navigere i det uden at blive forvirret. <br>
+
+Under en usertest giver man typisk en bruger en konkret opgave, f.eks. at finde en bestemt funktion i en app, mens man observerer deres adfærd. En vigtig del af metoden er, at brugeren tænker højt undervejs, hvilket betyder, at de løbende siger, hvad de tænker, hvad de leder efter, og hvad de er i tvivl om. Det gør det lettere at forstå, hvorfor de klikker som de gør, og hvor problemerne opstår. <br>
+
+Efter testen samler man feedback og bruger den til at forbedre designet. Det kan f.eks. være ændringer i navigation, knapper eller layout, så appen bliver mere intuitiv og brugervenlig. I vores KIA-app kunne en usertest f.eks. afsløre, om brugeren nemt kunne finde rundt mellem siderne, og om symbolerne i menuen var tydelige nok. <br>
+
 ## App og interaktionsdesign
 I grundforløbet lærte vi om nogle basale dele af kommunikation og it / informatik:
 - Målgruppe
