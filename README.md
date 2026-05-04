@@ -71,6 +71,23 @@ Her ses en kørsel af koden<br>
 <br>
 ![demo](2_balls_collision.gif)<br>
 
+### Projekt fra virtuel undervisning aka. "projekt" 3
+I denne opgave arbejdede vi med en algoritme, der bygger på tilfældighed og gentagelser. Målet var at skabe et mønster ud fra tre tilfældige punkter, som tilsammen danner en Sierpiński-trekant.
+Jeg valgte at lave koden så, at brugeren skal vælge tre punkter ved at klikke på canvaset. Disse punkter gemmes i arrays og fungerer som trekantens hjørner. Når alle tre punkter er valgt, vælges et tilfældigt startpunkt blandt dem.
+
+Herefter starter programmet en løkke i draw(), hvor et af de tre hjørner hver gang vælges tilfældigt som destination. Det nuværende punkt flyttes derefter halvvejs mod denne destination, og der tegnes et nyt punkt på skærmen.
+
+Da processen gentages mange gange i sekundet, opstår der et mønster, som ligner en Sierpiński-trekant.
+<br>
+Som suplement har jeg lavet et flowchart til koden
+<img width="732" height="714" alt="image" src="https://github.com/user-attachments/assets/be0b3b61-8e8c-49d3-9eea-6410f5b1c884" /><br>
+<br>
+Med tiden dannes Sierpiński-trekanten<br>
+<br>
+<img width="526" height="397" alt="image" src="https://github.com/user-attachments/assets/0635b38b-cffa-4628-af1b-1bfe242d1caf" /><br>
+
+
+
 
 ## Kryptering
 I starten af forløbet
