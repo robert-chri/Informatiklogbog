@@ -104,4 +104,6 @@ Et klassisk eksempel er Caesar-kryptering, hvor bogstaver i en tekst forskydes e
 <br>
 Som en del af forløbet lavede vi også et projekt i p5.js, hvor vi programmerede en Caesar-kryptering.<br>
 
+## 3D-design og -print
+
 ## Arduino vejrstation
