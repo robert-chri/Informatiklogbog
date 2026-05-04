@@ -39,6 +39,7 @@ Dette var det første flowchart vi lavede. Flowchartet gengiver koden, som skull
 <img width="1197" height="606" alt="image" src="https://github.com/user-attachments/assets/84c389bc-6777-48a8-9764-158b1ba742be" />
 Her er koden, der er lavet ud fra flowchartet. https://editor.p5js.org/robertv2907/sketches/3PUSpVaiw<br>
 
+<div style="width:209px;max-width:100%;"><div style="height:0;padding-bottom:96.65%;position:relative;"><iframe width="209" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/aqvgom"></iframe></div><p><a href="https://imgflip.com/gif/aqvgom">via Imgflip</a></p></div>
 
 
 ## Kryptering
