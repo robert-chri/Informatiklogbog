@@ -1,4 +1,5 @@
 # LOGBOGEN STÅR 100% FÆRDIG SENEST D 5/5!!!!!!!!
+# DER ER STADIG MANGLER
 
 # Informatiklogbog
 Dette er min logbog i informatik!!<br>
