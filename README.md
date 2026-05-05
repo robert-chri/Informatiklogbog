@@ -1,6 +1,3 @@
-# LOGBOGEN STÅR 100% FÆRDIG SENEST D 5/5!!!!!!!!
-# DER ER STADIG MANGLER
-
 # Informatiklogbog
 Dette er min logbog i informatik!!<br>
 Her kommer mit arbejde til at ligge
@@ -177,3 +174,6 @@ Kassen:
 
 ## Link til præsentation
 https://tstaarhustech-my.sharepoint.com/:p:/g/personal/at25oslo_edu_aarhustech_dk/IQDWRFwQOG-XSq6SUVCkbN_ZAdisyNdmwFkc1RmwdZlCiDg?e=Pf4E9m
+
+## Tellodroneforløb
+Se den fælles GitHub, som jeg (Robert) er en del af, til det projekt
