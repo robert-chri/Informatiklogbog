@@ -108,5 +108,17 @@ Et klassisk eksempel er Caesar-kryptering, hvor bogstaver i en tekst forskydes e
 Som en del af forløbet lavede vi også et projekt i p5.js, hvor vi programmerede en Caesar-kryptering.<br>
 
 ## 3D-design og -print
+I emnet lærte vi, at bruge 3d-design-softwaret kaldet Autodesk Fusion.<br>
+<br>
+Som det første projekt lavede vi en simpel figur i modelleringssoftwaret, vi bagefter 3d-printede<br>
+<br>
+Som min figur valgte jeg, at lave et cylinder (ses til venstre på billedet), og kravet for opgaven var, at rumfanget af figuren skulle være 5 kubikcentimeter<br>
+Sådan så figuren ud i Fusion<br>
+<img width="1380" height="1098" alt="billede" src="https://github.com/user-attachments/assets/1e37e704-8e03-435d-b9ea-185276327512" />
+
+Sådan i virkeligheden<br>
+<img width="770" height="920" alt="billede" src="https://github.com/user-attachments/assets/963753e2-75b9-4f21-8317-044d417d9286" />
+<br>
+Dette blev eksporteret som en STL fil, som kan læses af Bambu Studio, som skolens splinternye 3d-printere kører på.
 
 ## Arduino vejrstation
