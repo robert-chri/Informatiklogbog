@@ -106,6 +106,25 @@ I forbindelse med emnet lærte vi også om CIA-modellen, som er en grundlæggend
 Et klassisk eksempel er Caesar-kryptering, hvor bogstaver i en tekst forskydes et bestemt antal pladser i alfabetet, så beskeden bliver ulæselig uden nøglen.<br>
 <br>
 Som en del af forløbet lavede vi også et projekt i p5.js, hvor vi programmerede en Caesar-kryptering.<br>
+<br>
+Her ses det første vi lavede i p5.js som er en CEASAR-CIPHER, der kan en- og dekryptere beskeder.<br>
+Link til koden: https://editor.p5js.org/robertv2907/sketches/a1lndLEWW<br>
+<br>
+For at forstå hvordan programmet virker, kan man dele det op i to dele:UI og selve krypteringen.<br>
+
+Brugerfladen:
+I setup()-funktionen opretter vi de felter, brugeren skal interagere med. Vi bruger createInput() til at lave tekstfelter til selve beskeden og til "shift"-værdien (nøglen). Derudover laver vi en knap med createButton(), som aktiverer krypteringen, når man klikker på den.
+
+Selve krypteringen (Caesar Cipher):
+Hjertet i koden er funktionen caesarCipher(). Her sker der følgende:
+
+1) Modulo-regning: Vi bruger % 26 på vores shift-værdi. Det gør vi for at sikre, at hvis man f.eks. skriver "27", så tæller den det bare som et skift på "1", da alfabetet kører i ring.
+2) ASCII-værdier: Computeren forstår ikke bogstaver direkte, men bruger tal-koder (ASCII). Store 'A' er 65, og lille 'a' er 97.
+3) Logikken: For hvert bogstav i beskeden trækker vi startværdien fra (f.eks. 65), lægger vores shift til, bruger modulo 26 for at blive inden for alfabetet, og lægger de 65 til igen for at få det nye bogstavs kode.
+
+Jeg har også tilføjet en console.log(rawASCII), så man i inspektøren kan følge med i, hvilke tal-værdier bogstaverne har, før de bliver lavet om!
+<img width="864" height="512" alt="billede" src="https://github.com/user-attachments/assets/722185f1-7052-4573-8a2d-8bce11c3fea3" />
+<br>
 
 ## 3D-design og -print
 I emnet lærte vi, at bruge 3d-design-softwaret kaldet Autodesk Fusion.<br>
